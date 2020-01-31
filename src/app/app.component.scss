@@ -1,0 +1,14 @@
+
+$primary-color: blue;
+$background-color: lightblue;
+$font: Courier;
+
+h1 {
+    color: $primary-color;
+    background-color: $background-color;
+}
+
+nav{
+    font-size: larger;    
+    font: $font 50%;
+}
